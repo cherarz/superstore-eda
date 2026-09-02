@@ -1,8 +1,6 @@
 # Superstore EDA
 Исследовательский анализ данных (EDA) датасета Superstore: продажи, прибыль, маржинальность.
 
-# Superstore EDA
-
 ## О проекте
 
 Исследовательский анализ данных (EDA) датасета **Tableau Sample Superstore**.
